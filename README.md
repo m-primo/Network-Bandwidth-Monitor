@@ -1,6 +1,8 @@
 # Network-Bandwidth-Monitor
 Monitor your network bandwidth using a very small python script.
 
+Everything saved in ```stats.log``` file.
+
 # Screenshot
 ![image](https://user-images.githubusercontent.com/44984918/114967732-46231a80-9e75-11eb-97c7-87d1fe7ca298.png)
 
